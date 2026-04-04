@@ -51,3 +51,7 @@ A data cleaning, exploratory analysis, and linear regression study in R using a 
 |---|---|
 | `toyota_price_analysis.R` | Full analysis script |
 | `Toyota4.csv` | Raw dataset |
+
+---
+
+README written with the assistance of [Claude Code](https://claude.ai/code) by Anthropic.
